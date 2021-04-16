@@ -1,4 +1,4 @@
-package org.umairmubasher.todotask06lec10;
+package org.umairmubasher.todotask06lec08;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -12,16 +12,18 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 
+import org.umairmubasher.todotask06lec08.Activity2;
+
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;
 
- public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
-     ListView listview;
-     EditText editText;
-     ArrayList<String>  frinedArrayList;
-     ArrayAdapter<String> arrayAdapter;
+    ListView listview;
+    EditText editText;
+    ArrayList<String>  frinedArrayList;
+    ArrayAdapter<String> arrayAdapter;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,7 +33,7 @@ import java.util.Collections;
         Button button=findViewById(R.id.btnAdd);
         editText=findViewById(R.id.editTextAdd);
 
-     //   String[] friendList = {"Numan Rana", "Nomi", "Ahmad"};
+        //   String[] friendList = {"Numan Rana", "Nomi", "Ahmad"};
 
         //create ArrayList And Add items in it.
         frinedArrayList= new ArrayList<String>();
@@ -69,4 +71,4 @@ import java.util.Collections;
         // sort the data
         Collections.sort(frinedArrayList);
     }
- }
+}

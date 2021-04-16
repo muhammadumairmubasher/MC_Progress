@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.umairmubasher.todotask06lec10">
+    package="org.umairmubasher.todotask06lec08">
 
     <application
         android:allowBackup="true"
@@ -8,8 +8,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.ToDoTask06Lec10">
-        <activity android:name=".Activity2"></activity>
+        android:theme="@style/Theme.ToDoTask06Lec08">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

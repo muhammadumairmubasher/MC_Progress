@@ -1,4 +1,4 @@
-package org.umairmubasher.todotask06lec10;
+package org.umairmubasher.todotask06lec08;
 
 import org.junit.Test;
 
