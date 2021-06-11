@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fcb41ee-2755-4eca-864a-62c65c675f24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/NavigationBar/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NavigationBar/.idea/markdown-navigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MC-ToDoTaskDocumentation-BSEF18A038.docx.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../MC-ToDoTaskDocumentation-BSEF18A038.docx.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/assets/book1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/assets/book1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/assets/book3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/assets/book3.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/res/drawable/download2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/res/drawable/download2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/res/layout/header.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/res/layout/header.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationBar/app/src/main/res/menu/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NavigationBar/app/src/main/res/menu/menu.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tmbXejV6XcZMquQQIsFshmsQVZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcb41ee-2755-4eca-864a-62c65c675f24" name="Default Changelist" comment="" />
+      <created>1623377252326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623377252326</updated>
+    </task>
+    <servers />
+  </component>
+</project>
